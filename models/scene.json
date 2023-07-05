@@ -1,0 +1,242 @@
+{
+  "school_background": {
+    "url": "https://civitai.com/models/78855?modelVersionId=83653",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": ["school"],
+    "optional_prompts": [
+      "gate",
+      "fence",
+      "building",
+      "trees",
+      "cherry blossoms"
+    ],
+    "type": "LoRA"
+  },
+  "mobile_video_shooting_studio_vehicle": {
+    "url": "civitai.com/models/12109?modelVersionId=14293",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": [
+      "mmgou",
+      "shs mmgou",
+      "window",
+      "curtains",
+      "couch",
+      "indoors",
+      "tree",
+      "cityscape",
+      "city"
+    ],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "japanese_convenience_store": {
+    "url": "civitai.com/models/23380?modelVersionId=27919",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": ["konbini", "food", "shop", "indoors", "convenience store"],
+    "optional_prompts": ["cashier", "monitor", "bread"],
+    "type": "LoRA"
+  },
+  "pink_room": {
+    "url": "civitai.com/models/26008?modelVersionId=31138",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": [
+      "pnkr",
+      "pink theme",
+      "night",
+      "pink lighting",
+      "cinematic lighting",
+      "neon lights"
+    ],
+    "optional_prompts": ["purple theme", "red theme"],
+    "type": "LoRA"
+  },
+  "kitakou": {
+    "url": "civitai.com/models/47421?modelVersionId=52017",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": [
+      "haruhizaka",
+      "kitakoumae",
+      "scenery",
+      "outdoors",
+      "road",
+      "power lines",
+      "city",
+      "tree",
+      "building"
+    ],
+    "optional_prompts": [
+      "kousaten1",
+      "outdors",
+      "scenery",
+      "tree",
+      "road",
+      "sky",
+      "fence",
+      "cloud",
+      "building"
+    ],
+    "type": "LoRA"
+  },
+  "school_rooftop": {
+    "url": "civitai.com/models/69663?modelVersionId=74323",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": ["school rooftop"],
+    "optional_prompts": [
+      "chain-link fence",
+      "fence",
+      "building",
+      "school",
+      "bench"
+    ],
+    "type": "LoRA"
+  },
+  "underground_club": {
+    "url": "civitai.com/models/69741?modelVersionId=74403",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": ["undergroundclub"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "infirmary": {
+    "url": "civitai.com/models/70433?modelVersionId=75088",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": ["infirmary"],
+    "optional_prompts": ["curtains", "hospital bed"],
+    "type": "LoRA"
+  },
+  "train_interior": {
+    "url": "civitai.com/models/74932?modelVersionId=79676",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": ["jnr205", "train interior", "indoors", "scenery"],
+    "optional_prompts": ["realistic"],
+    "type": "LoRA"
+  },
+  "pool": {
+    "url": "civitai.com/models/10010?modelVersionId=11901",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": [
+      "shs reinopool",
+      "reinopool",
+      "pool",
+      "indoors",
+      "tile floor",
+      "tile wall"
+    ],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "enhanced_backlighting": {
+    "url": "civitai.com/models/32718?modelVersionId=39164",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": ["backlighting"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "gym_storeroom": {
+    "url": "civitai.com/models/69794?modelVersionId=74456",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": ["gym storeroom"],
+    "optional_prompts": ["basketball", "volleyball", "balls"],
+    "type": "LoRA"
+  },
+  "school_building": {
+    "url": "civitai.com/models/20289?modelVersionId=24124",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": ["kyoushitu", "classroom", "scenery", "indoors"],
+    "optional_prompts": [
+      "rouka",
+      "hallway",
+      "kaidan",
+      "stairs",
+      "window",
+      "sunlight",
+      "school chair",
+      "school desk",
+      "chalkboard",
+      "curtains"
+    ],
+    "type": "LoRA"
+  },
+  "liminal_space": {
+    "url": "https://civitai.com/models/16728?modelVersionId=72282",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": ["backroom", "liminal space", "level-0"],
+    "optional_prompts": [
+      "level-1",
+      "level-2",
+      "level-4",
+      "level-9",
+      "level-13",
+      "level-15",
+      "level-33",
+      "level-37",
+      "level-190",
+      "level-423",
+      "infinity corridor",
+      "large space"
+    ],
+    "type": "LoRA"
+  },
+  "submerged": {
+    "url": "https://civitai.com/models/19206?modelVersionId=22790",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": ["submerged water"],
+    "optional_prompts": [
+      "complete anatomy",
+      "deep submersion",
+      "partially submerged",
+      "bubbles",
+      "shiny skin",
+      "sweat",
+      "cloudy sky"
+    ],
+    "type": "LoRA"
+  },
+  "planet_simulator": {
+    "url": "https://civitai.com/models/19470?modelVersionId=68729",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": ["earth \\(planet\\)"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "better_sky": {
+    "url": "civitai.com/models/28581?modelVersionId=34285",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": ["sky"],
+    "optional_prompts": ["sunset", "night"],
+    "type": "LoRA"
+  },
+  "large_french_window": {
+    "url": "https://civitai.com/models/88580?modelVersionId=94254",
+    "category": "Scene",
+    "subcategory": null,
+    "prompts": ["largewindow"],
+    "optional_prompts": [
+      "day",
+      "sunset",
+      "night",
+      "spring",
+      "summer",
+      "autumn",
+      "winter"
+    ],
+    "type": "LoRA"
+  }
+}

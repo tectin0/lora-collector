@@ -1,0 +1,10 @@
+{
+  "detail_tweaker": {
+    "url": "https://civitai.com/models/58390?modelVersionId=62833",
+    "category": "Basic",
+    "subcategory": null,
+    "prompts": [],
+    "optional_prompts": [],
+    "type": "LoRA"
+  }
+}

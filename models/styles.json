@@ -1,0 +1,184 @@
+{
+  "mossa": {
+    "url": "civitai.com/models/73240?modelVersionId=77955",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": [],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "anabones": {
+    "url": "civitai.com/models/55604?modelVersionId=60000",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": ["beautiful woman", "ab"],
+    "optional_prompts": [],
+    "type": "LyCORIS"
+  },
+  "silvermoon": {
+    "url": "civitai.com/models/72651?modelVersionId=77380",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": [],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "jelly": {
+    "url": "civitai.com/models/5743?modelVersionId=6695",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": [],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "jb18": {
+    "url": "https://civitai.com/models/70321?modelVersionId=74978",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": [],
+    "optional_prompts": [],
+    "type": "LyCORIS"
+  },
+  "muk": {
+    "url": "https://civitai.com/models/67682?modelVersionId=72341",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": [],
+    "optional_prompts": ["mukartist", "realistic", "lineart"],
+    "type": "LoRA"
+  },
+  "yudeebi": {
+    "url": "https://civitai.com/models/67682?modelVersionId=72341",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": [],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "mmo_concept": {
+    "url": "civitai.com/models/63934?modelVersionId=68531",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": [],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "lakilolom": {
+    "url": "https://civitai.com/models/71173?modelVersionId=69226",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": [],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "chintora": {
+    "url": "https://civitai.com/models/64647?modelVersionId=69275",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": ["art by chintora", "chintora"],
+    "optional_prompts": ["pussy drawn by chintora", "body drawn by chintora"],
+    "type": "LoRA"
+  },
+  "bad_girl": {
+    "url": "https://civitai.com/models/65132?modelVersionId=69765",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": ["bad-girl"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "madoka_magicka": {
+    "url": "https://civitai.com/models/13783?modelVersionId=69925",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": ["madoka magicka"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "vivid_impactful": {
+    "url": "https://civitai.com/models/21722?modelVersionId=33016",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": ["vvi\\(artstyle\\)"],
+    "optional_prompts": ["vvi\\(face\\)", "vvi\\(eyes\\)", "vvi\\(oa\\)"],
+    "type": "LyCORIS"
+  },
+  "goth_girl": {
+    "url": "https://civitai.com/models/17704?modelVersionId=75355",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": ["gothgirl"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "goth_gals": {
+    "url": "https://civitai.com/models/23410?modelVersionId=64073",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": ["gothgal"],
+    "optional_prompts": ["ballgown"],
+    "type": "LyCORIS"
+  },
+  "landmine_girl": {
+    "url": "https://civitai.com/models/24062?modelVersionId=33010",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": ["jirai fashion"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "helltaker": {
+    "url": "https://civitai.com/models/8429?modelVersionId=9942",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": [],
+    "optional_prompts": ["Helltaker"],
+    "type": "LoRA"
+  },
+  "ghibli": {
+    "url": "https://civitai.com/models/6526?modelVersionId=7657",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": ["ghibli style"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "colorwater": {
+    "url": "https://civitai.com/models/16055/",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": [],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "arcane": {
+    "url": "https://civitai.com/models/7094?modelVersionId=8339",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": ["arcane style"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "lowra": {
+    "url": "https://civitai.com/models/48139?modelVersionId=63006",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": [],
+    "optional_prompts": ["dark theme"],
+    "type": "LoRA"
+  },
+  "noise_offset": {
+    "url": "https://civitai.com/models/13941?modelVersionId=16576",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": [],
+    "optional_prompts": [
+      "dark studio",
+      "rim lighting",
+      "two tone lighting",
+      "dimly lit",
+      "low key"
+    ],
+    "type": "LoRA"
+  }
+}

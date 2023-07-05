@@ -1,0 +1,9 @@
+{
+  "positive": ["((best quality))", "((masterpiece))", "(detailed)"],
+  "negative": [
+    "(worst quality:1.4)",
+    "(low quality:1.4)",
+    "(normal quality:1.4)",
+    "lowres"
+  ]
+}

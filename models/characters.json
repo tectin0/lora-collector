@@ -1,0 +1,118 @@
+{
+  "ichika": {
+    "url": "civitai.com/models/73228?modelVersionId=77944",
+    "category": "Characters",
+    "subcategory": null,
+    "prompts": ["swept bangs", "sidelocks", "blue eyes"],
+    "optional_prompts": [
+      "black serafuku",
+      "black sailor collar",
+      "pleated skirt",
+      "hairclip",
+      "black choker",
+      "red neckerchief",
+      "red armband",
+      "long sleeves",
+      "halo",
+      "eyes closed"
+    ],
+    "type": "LoRA"
+  },
+  "akali": {
+    "url": "civitai.com/models/5540?modelVersionId=6447",
+    "category": "Characters",
+    "subcategory": null,
+    "prompts": ["akali"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "gawr_gura": {
+    "url": "https://civitai.com/models/20447?modelVersionId=47430",
+    "category": "Characters",
+    "subcategory": null,
+    "prompts": ["gawr gura"],
+    "optional_prompts": [
+      "blue hoddie",
+      "shark hood",
+      "gura_neko",
+      "blue dress",
+      "side ponytail",
+      "gura_atlantis",
+      "gradient dress",
+      "laurel crown",
+      "gura_kimono",
+      "blue kimono",
+      "gura_bikini",
+      "blue bikini"
+    ],
+    "type": "LoRA"
+  },
+  "shirai_kuroko": {
+    "url": "https://civitai.com/models/21947?modelVersionId=73238",
+    "category": "Characters",
+    "subcategory": null,
+    "prompts": ["shirai_kuroko"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "misaka_mikoto": {
+    "url": "https://civitai.com/models/61520?modelVersionId=73238",
+    "category": "Characters",
+    "subcategory": null,
+    "prompts": ["misaka_mikoto"],
+    "optional_prompts": [
+      "school uniform",
+      "shirt",
+      "short sleeves",
+      "swimsuit",
+      "gym uniform",
+      "bikini"
+    ],
+    "type": "LoRA"
+  },
+  "makise_kurisu": {
+    "url": "https://civitai.com/models/19056/",
+    "category": "Characters",
+    "subcategory": null,
+    "prompts": ["makise kurisu"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "jinx": {
+    "url": "https://civitai.com/models/11457/",
+    "category": "Characters",
+    "subcategory": null,
+    "prompts": ["jinxlol, "],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "kamado_nezuko": {
+    "url": "https://civitai.com/models/20346",
+    "category": "Characters",
+    "subcategory": null,
+    "prompts": ["kamado nezuko"],
+    "optional_prompts": ["bit gag", "gagged"],
+    "type": "LoRA"
+  },
+  "lucy": {
+    "url": "https://civitai.com/models/5477/",
+    "category": "Characters",
+    "subcategory": null,
+    "prompts": ["lucy \\(cyberpunk\\)"],
+    "optional_prompts": [
+      "(robot joints:0.5)",
+      "mechanical parts",
+      "jacket",
+      "shorts"
+    ],
+    "type": "LoRA"
+  },
+  "gwen": {
+    "url": "https://civitai.com/models/5025/",
+    "category": "Characters",
+    "subcategory": null,
+    "prompts": ["gwen \\(league of legends\\)"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "wowifier": {
+    "url": "https://civitai.com/models/24542?modelVersionId=44887",
+    "category": "Other",
+    "subcategory": null,
+    "prompts": ["by mooncryptowow", "psychedelic", "halo"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "public": {
+    "url": "civitai.com/models/22123?modelVersionId=26413",
+    "category": "Other",
+    "subcategory": null,
+    "prompts": ["public"],
+    "optional_prompts": [
+      "photographer",
+      "foreground",
+      "phone screen",
+      "camera"
+    ],
+    "type": "LoRA"
+  },
+  "gem": {
+    "url": "https://civitai.com/models/24002?modelVersionId=28682",
+    "category": "Other",
+    "subcategory": null,
+    "prompts": ["gem"],
+    "optional_prompts": ["gear", "jewelry", "no human"],
+    "type": "LoRA"
+  },
+  "weapons": {
+    "url": "https://civitai.com/models/69323?modelVersionId=28682",
+    "category": "Other",
+    "subcategory": null,
+    "prompts": [""],
+    "optional_prompts": [
+      "Link Master Sword",
+      "Lightsaber",
+      "Dual Wielding Swords",
+      "One Handed Sword",
+      "Unsheathing Sword",
+      "Scythe",
+      "Sword and Shield",
+      "Trident",
+      "Planted Sword on Hand",
+      "Yor Knife"
+    ],
+    "type": "LyCORIS"
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "index_fingers_together": {
+    "url": "civitai.com/models/70618?modelVersionId=75295",
+    "category": "Poses",
+    "subcategory": null,
+    "prompts": ["index fingers together"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "ok_sign_over_eye": {
+    "url": "civitai.com/models/73068?modelVersionId=77786",
+    "category": "Poses",
+    "subcategory": null,
+    "prompts": ["ok sign over eye"],
+    "optional_prompts": [],
+    "type": "LyCORIS"
+  },
+  "split_sitting": {
+    "url": "https://civitai.com/models/57861?modelVersionId=62306",
+    "category": "Poses",
+    "subcategory": null,
+    "prompts": ["split", "spread legs", "sitting"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "sleeping_on_couch": {
+    "url": "https://civitai.com/models/11116?modelVersionId=13170",
+    "category": "Poses",
+    "subcategory": null,
+    "prompts": ["sleeping"],
+    "optional_prompts": ["knee up", "panties", "closed eyes"],
+    "type": "LoRA"
+  },
+  "ojou_sama": {
+    "url": "https://civitai.com/models/51582?modelVersionId=56052",
+    "category": "Poses",
+    "subcategory": null,
+    "prompts": ["ojou-sama pose"],
+    "optional_prompts": ["hand over own mouth", "hand to own mouth"],
+    "type": "LoRA"
+  },
+  "double_v": {
+    "url": "civitai.com/models/43687?modelVersionId=48325",
+    "category": "Poses",
+    "subcategory": null,
+    "prompts": ["double v", "v"],
+    "optional_prompts": ["single v"],
+    "type": "LoRA"
+  },
+  "animal": {
+    "url": "https://civitai.com/models/64971?modelVersionId=69597",
+    "category": "Poses",
+    "subcategory": null,
+    "prompts": ["animal"],
+    "optional_prompts": [
+      "solo",
+      "looking at viewer",
+      "open mouth",
+      "upper body",
+      "teeth",
+      "nail polish",
+      "fangs",
+      "saliva"
+    ],
+    "type": "LoRA"
+  },
+  "jack_o_challenge": {
+    "url": "civitai.com/models/10353?modelVersionId=12304",
+    "category": "Poses",
+    "subcategory": null,
+    "prompts": [
+      "jack-o' challenge",
+      "flexible",
+      "spread legs",
+      "top-down bottom-up"
+    ],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "shirt_tug": {
+    "url": "civitai.com/models/7706?modelVersionId=9048",
+    "category": "Poses",
+    "subcategory": null,
+    "prompts": ["shirt", "shirt tug", "naked shirt"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "incoming_hug": {
+    "url": "https://civitai.com/models/21388?modelVersionId=27867",
+    "category": "Poses",
+    "subcategory": null,
+    "prompts": ["incoming hug"],
+    "optional_prompts": ["incoming kiss"],
+    "type": "LoRA"
+  },
+  "rest_on_stomach_feetup": {
+    "url": "https://civitai.com/models/16817?modelVersionId=19847",
+    "category": "Poses",
+    "subcategory": null,
+    "prompts": ["woman lying down"],
+    "optional_prompts": ["soles"],
+    "type": "LoRA"
+  },
+  "head_back": {
+    "url": "https://civitai.com/models/19565?modelVersionId=23221",
+    "category": "Poses",
+    "subcategory": null,
+    "prompts": ["headback"],
+    "optional_prompts": ["from side"],
+    "type": "LoRA"
+  },
+  "angel_sleepeace": {
+    "url": "https://civitai.com/models/64238?modelVersionId=97781",
+    "category": "Poses",
+    "prompts": ["sleepeace"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  }
+}

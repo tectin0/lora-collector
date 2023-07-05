@@ -1,0 +1,14 @@
+{
+  "easy_negative": {
+    "file": "EasyNegativeV2.safetensors",
+    "prompt": "easy negative"
+  },
+  "deep_negative": {
+    "file": "ng_deepnegative_v1_75t.pt",
+    "prompt": "ng_deepnegative_v1_75t"
+  },
+  "bad_negative": {
+    "file": "bad_prompt_version2-neg.pt",
+    "prompt": "bad_prompt_version2"
+  }
+}

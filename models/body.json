@@ -1,0 +1,106 @@
+{
+  "split_color_hair": {
+    "url": "civitai.com/models/70737?modelVersionId=75424",
+    "category": "Other",
+    "subcategory": null,
+    "prompts": ["split-color hair"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "hands": {
+    "url": "https://civitai.com/models/47085?modelVersionId=55199",
+    "category": "Body",
+    "subcategory": null,
+    "prompts": ["nice hands", "perfect hands"],
+    "optional_prompts": [],
+    "type": "LyCORIS"
+  },
+  "eyes__": {
+    "url": "https://civitai.com/models/5693?modelVersionId=6626",
+    "category": "Body",
+    "subcategory": null,
+    "prompts": [],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "eyes_alt": {
+    "url": "civitai.com/models/38525?modelVersionId=44460",
+    "category": "Body",
+    "subcategory": null,
+    "prompts": [],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "half_closed_eyes": {
+    "url": "https://civitai.com/models/17610?modelVersionId=38238",
+    "category": "Body",
+    "subcategory": null,
+    "prompts": ["corruption", "half-closed eyes"],
+    "optional_prompts": ["empty eyes", "evil grin", "no pupils", "evil smile"],
+    "type": "LyCORIS"
+  },
+  "better_bodies": {
+    "url": "https://civitai.com/models/9025?modelVersionId=23250",
+    "category": "Body",
+    "subcategory": null,
+    "prompts": [],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "slim_bodies": {
+    "url": "https://civitai.com/models/61639?modelVersionId=74417",
+    "category": "Body",
+    "subcategory": null,
+    "prompts": ["ttpc-fc"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "smug": {
+    "url": "https://civitai.com/models/50874?modelVersionId=56003",
+    "category": "Body",
+    "subcategory": null,
+    "prompts": [";3", "uwu"],
+    "optional_prompts": ["catmouth", "smug"],
+    "type": "LoRA"
+  },
+  "kaomoji_closed_eyes": {
+    "url": "https://civitai.com/models/55269?modelVersionId=59653",
+    "category": "Body",
+    "subcategory": null,
+    "prompts": ["(> <:1.2)"],
+    "optional_prompts": ["one eyes closed"],
+    "type": "LoRA"
+  },
+  "lips_licking": {
+    "url": "https://civitai.com/models/48856?modelVersionId=53433",
+    "category": "Body",
+    "subcategory": null,
+    "prompts": ["licking lips"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "cheek_pinching": {
+    "url": "https://civitai.com/models/59841?modelVersionId=64293",
+    "category": "Body",
+    "subcategory": null,
+    "prompts": ["cheekpinching", "cheek pinching", "holding", "one eye closed"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "bubblegum": {
+    "url": "https://civitai.com/models/45703?modelVersionId=50332",
+    "category": "Body",
+    "subcategory": null,
+    "prompts": ["bubblegum", "chewing gum"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "head_patting": {
+    "url": "https://civitai.com/models/8647?modelVersionId=10204",
+    "category": "Body",
+    "subcategory": null,
+    "prompts": ["headpat", "head rub"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "see_through_silhouette": {
+    "url": "civitai.com/models/11130?modelVersionId=28884",
+    "category": "Clothes",
+    "subcategory": null,
+    "prompts": ["see-through silhouette", "shirt"],
+    "optional_prompts": ["dress", "sundress"],
+    "type": "LoRA"
+  },
+  "choker": {
+    "url": "https://civitai.com/models/65201",
+    "category": "Clothes",
+    "subcategory": null,
+    "prompts": ["edg_choker around the neck", "edg_choker"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "oversized_shirt": {
+    "url": "https://civitai.com/models/10534",
+    "category": "Clothes",
+    "subcategory": null,
+    "prompts": ["oversized shirt", "shirt", "off shoulder"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "pantyhose": {
+    "url": "https://civitai.com/models/26760",
+    "category": "Clothes",
+    "subcategory": null,
+    "prompts": ["black pantyhose"],
+    "optional_prompts": ["white pantyhose"],
+    "type": "LoRA"
+  },
+  "ribbon_gift": {
+    "url": "https://civitai.com/models/59270?modelVersionId=63711",
+    "category": "Clothes",
+    "subcategory": null,
+    "prompts": ["Ribbon Bandage"],
+    "optional_prompts": ["Nude Ribbon"],
+    "type": "LoRA"
+  }
+}
