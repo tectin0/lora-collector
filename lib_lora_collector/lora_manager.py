@@ -130,9 +130,7 @@ class LoraManager:
                         )
 
                         if success:
-                            model.model_path = (
-                                f"{model.mtype}__{model_name}.safetensors"
-                            )
+                            model.model_path = f"{model.mtype}__{model_name}"
 
         for lora in self.loras:
             lora = strip_model_file_extensions(lora)

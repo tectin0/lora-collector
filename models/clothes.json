@@ -38,5 +38,13 @@
     "prompts": ["Ribbon Bandage"],
     "optional_prompts": ["Nude Ribbon"],
     "type": "LoRA"
+  },
+  "clothing_amount_adjuster": {
+    "url": "https://civitai.com/models/88132?modelVersionId=95588",
+    "category": "Clothes",
+    "subcategory": "Functional",
+    "prompts": [],
+    "optional_prompts": [],
+    "type": "LoRA"
   }
 }

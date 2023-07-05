@@ -2,7 +2,7 @@
   "school_background": {
     "url": "https://civitai.com/models/78855?modelVersionId=83653",
     "category": "Scene",
-    "subcategory": null,
+    "subcategory": "School",
     "prompts": ["school"],
     "optional_prompts": [
       "gate",
@@ -85,7 +85,7 @@
   "school_rooftop": {
     "url": "civitai.com/models/69663?modelVersionId=74323",
     "category": "Scene",
-    "subcategory": null,
+    "subcategory": "School",
     "prompts": ["school rooftop"],
     "optional_prompts": [
       "chain-link fence",
@@ -123,7 +123,7 @@
   "pool": {
     "url": "civitai.com/models/10010?modelVersionId=11901",
     "category": "Scene",
-    "subcategory": null,
+    "subcategory": "Water",
     "prompts": [
       "shs reinopool",
       "reinopool",
@@ -154,7 +154,7 @@
   "school_building": {
     "url": "civitai.com/models/20289?modelVersionId=24124",
     "category": "Scene",
-    "subcategory": null,
+    "subcategory": "School",
     "prompts": ["kyoushitu", "classroom", "scenery", "indoors"],
     "optional_prompts": [
       "rouka",
@@ -194,7 +194,7 @@
   "submerged": {
     "url": "https://civitai.com/models/19206?modelVersionId=22790",
     "category": "Scene",
-    "subcategory": null,
+    "subcategory": "Water",
     "prompts": ["submerged water"],
     "optional_prompts": [
       "complete anatomy",
@@ -238,5 +238,13 @@
       "winter"
     ],
     "type": "LoRA"
+  },
+  "anime_night": {
+    "url": "https://civitai.com/models/97089?modelVersionId=103756",
+    "category": "Scene",
+    "subcategory": "Night",
+    "prompts": ["night"],
+    "optional_prompts": [],
+    "type": "LyCORIS"
   }
 }
