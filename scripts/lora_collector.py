@@ -51,8 +51,21 @@ class Scripts(scripts.Script):
         self.infotext_fields: list[Tuple[Any, str]] = []
 
         with gr.Group():
-            with gr.Accordion("LoRA Collector"):
+            main_accordion = gr.Accordion("LoRA Collector", open=False)
+
+            with main_accordion:
                 is_enabled = gr.Checkbox(label="Enabled", value=False)
+
+                def on_enabled(checkbox):
+                    manager.is_enabled = checkbox
+
+                    return gr.Accordion.update(open=checkbox)
+
+                is_enabled.change(
+                    on_enabled,
+                    inputs=[is_enabled],
+                    outputs=[main_accordion],
+                )
 
                 model_categories: list[str] = list(
                     set([model.category for model in manager.models.values()])
@@ -317,6 +330,9 @@ class Scripts(scripts.Script):
         p: StableDiffusionProcessing,
         *args,
     ):
+        if not manager.is_enabled:
+            return
+
         for batch_index, _ in enumerate(p.all_prompts):
             self.prompting(p, batch_index)
 

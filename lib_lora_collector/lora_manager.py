@@ -21,6 +21,8 @@ class LoraManager:
     def __init__(self):
         super().__init__()
 
+        self.is_enabled = False
+
         self.is_default_positives: bool = True
         self.is_default_negatives: bool = True
 
