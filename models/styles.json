@@ -204,7 +204,7 @@
   },
   "mythology_oil_painting": {
     "url": "https://civitai.com/models/75443?modelVersionId=104866",
-    "category": "Style",
+    "category": "Styles",
     "subcategory": "Painting",
     "prompts": ["oil painting"],
     "optional_prompts": [
@@ -220,7 +220,7 @@
   },
   "niji_flat_illustration": {
     "url": "https://civitai.com/models/108841?modelVersionId=117238",
-    "category": "Style",
+    "category": "Styles",
     "subcategory": "Illustration",
     "prompts": [],
     "optional_prompts": [],
