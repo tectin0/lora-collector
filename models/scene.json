@@ -246,5 +246,69 @@
     "prompts": ["night"],
     "optional_prompts": [],
     "type": "LyCORIS"
+  },
+  "library_bookshelves": {
+    "url": "https://civitai.com/models/113488?modelVersionid=122601",
+    "category": "Scene",
+    "subcategory": "Inside",
+    "prompts": ["lib_bg"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "school_hallway": {
+    "url": "https://civitai.com/models/112218?modelVersionId=121130",
+    "category": "Scene",
+    "subcategory": "School",
+    "prompts": ["school hallway"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "school_locker_room": {
+    "url": "https://civitai.com/models/113540?modelVersionId=122666",
+    "category": "Scene",
+    "subcategory": "School",
+    "prompts": ["locker room"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "old_time_post_apocalyptic": {
+    "url": "https://civitai.com/models/109703?modelVersionId=121921",
+    "category": "Scene",
+    "subcategory": "Apocalypse",
+    "prompts": ["SZ_4po enviroment"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "waterpark": {
+    "url": "https://civitai.com/models/112559?modelVersionId=121526",
+    "category": "Scene",
+    "subcategory": "Water",
+    "prompts": ["waterpark"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "magical_forest": {
+    "url": "https://civitai.com/models/96283?modelVersionId=102845",
+    "category": "Scene",
+    "subcategory": "Forest",
+    "prompts": ["forest", "sky"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "neon_style_background": {
+    "url": "https://civitai.com/models/107375?modelVersionId=115460",
+    "category": "Scene",
+    "subcategory": "City",
+    "prompts": ["neostyle", "cityscape", "scenery"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "bamboo_forest": {
+    "url": "https://civitai.com/models/113381?modelVersionId=122477",
+    "category": "Scene",
+    "subcategory": "Forest",
+    "prompts": ["bamboolight"],
+    "optional_prompts": [],
+    "type": "LoRA"
   }
 }

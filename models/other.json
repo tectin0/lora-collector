@@ -54,5 +54,29 @@
     "prompts": ["low_angle_human"],
     "optional_prompts": [],
     "type": "LoRA"
+  },
+  "bismuth_crystal": {
+    "url": "https://civitai.com/models/109571?modelVersionId=121022",
+    "category": "Other",
+    "subcategory": null,
+    "prompts": ["bismuth"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "people_count": {
+    "url": "https://civitai.com/models/114104?modelVersionId=123309",
+    "category": "Other",
+    "subcategory": "People",
+    "prompts": [],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "age_regression": {
+    "url": "https://civitai.com/models/105053?modelVersionId=112670",
+    "category": "Other",
+    "subcategory": "Age",
+    "prompts": ["age regression", "oversized clothes"],
+    "optional_prompts": ["child"],
+    "type": "LoRA"
   }
 }

@@ -126,5 +126,28 @@
     "prompts": ["smug", "open mouth"],
     "optional_prompts": [";3"],
     "type": "LoRA"
+  },
+  "drow_dark_elf": {
+    "url": "https://civitai.com/models/113064?modelVersionId=122112",
+    "category": "Body",
+    "subcategory": "Skin",
+    "prompts": ["drow"],
+    "optional_prompts": [
+      "dark elf",
+      "colored skin",
+      "dark skin",
+      "blue skin",
+      "grey skin",
+      "pointy ears"
+    ],
+    "type": "LoRA"
+  },
+  "fairy": {
+    "url": "https://civitai.com/models/112645?modelVersionId=121645",
+    "category": "Body",
+    "subcategory": "Body",
+    "prompts": ["fairy", "butterfly_wings", "gem"],
+    "optional_prompts": ["blue_dress", "purple_dress", "white_dress"],
+    "type": "LoRA"
   }
 }

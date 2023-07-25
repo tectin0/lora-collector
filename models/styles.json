@@ -180,5 +180,50 @@
       "low key"
     ],
     "type": "LoRA"
+  },
+  "pixel_art": {
+    "url": "https://civitai.com/models/43820?modelVersionId=121559",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": ["pixelart"],
+    "optional_prompts": ["((pixelart))"],
+    "type": "LoRA"
+  },
+  "shadowed_elegance": {
+    "url": "https://civitai.com/models/110450?modelVersionId=119072",
+    "category": "Styles",
+    "subcategory": null,
+    "prompts": [
+      "style by NTY",
+      "a woman",
+      "yoshitaka amano character design",
+      "intricate"
+    ],
+    "optional_prompts": ["grief", "despair"],
+    "type": "LoRA"
+  },
+  "mythology_oil_painting": {
+    "url": "https://civitai.com/models/75443?modelVersionId=104866",
+    "category": "Style",
+    "subcategory": "Painting",
+    "prompts": ["oil painting"],
+    "optional_prompts": [
+      "ink painting",
+      "pencil painting",
+      "landscapes",
+      "outdoors",
+      "chinese architecture",
+      "egyptian",
+      "norse"
+    ],
+    "type": "LoRA"
+  },
+  "niji_flat_illustration": {
+    "url": "https://civitai.com/models/108841?modelVersionId=117238",
+    "category": "Style",
+    "subcategory": "Illustration",
+    "prompts": [],
+    "optional_prompts": [],
+    "type": "LoRA"
   }
 }

@@ -112,8 +112,17 @@
   "angel_sleepeace": {
     "url": "https://civitai.com/models/64238?modelVersionId=97781",
     "category": "Poses",
+    "subcategory": null,
     "prompts": ["sleepeace"],
     "optional_prompts": [],
     "type": "LoRA"
+  },
+  "shushing": {
+    "url": "https://civitai.com/models/105944?modelVersionId=113764",
+    "category": "Poses",
+    "subcategory": null,
+    "prompts": ["shushing"],
+    "optional_prompts": [],
+    "type": "LyCORIS"
   }
 }
