@@ -310,5 +310,53 @@
     "prompts": ["bamboolight"],
     "optional_prompts": [],
     "type": "LoRA"
+  },
+  "veranda_porch_engawa": {
+    "url": "https://civitai.com/models/120631?modelVersionId=131210",
+    "category": "Scene",
+    "subcategory": "Building",
+    "prompts": ["veranda"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "partially_underwater": {
+    "url": "https://civitai.com/models/133030?modelVersionId=146384",
+    "category": "Scene",
+    "subcategory": "Water",
+    "prompts": ["partially submerged"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "snowflakes_and_snow": {
+    "url": "https://civitai.com/models/121784?modelVersionId=132535",
+    "category": "Scene",
+    "subcategory": "Winter",
+    "prompts": ["snow", "snowflakes", "winter"],
+    "optional_prompts": [],
+    "type": "LyCORIS"
+  },
+  "school_stairs": {
+    "url": "https://civitai.com/models/132983?modelVersionId=146337",
+    "category": "Scene",
+    "subcategory": "School",
+    "prompts": ["school stairs"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "final_fantasy_IX": {
+    "url": "https://civitai.com/models/126599?modelVersionId=138457",
+    "category": "Scene",
+    "subcategory": "Fantasy",
+    "prompts": ["ffixbg"],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "tropical_buildings_delfino_plaza": {
+    "url": "https://civitai.com/models/129181?modelVersionId=141555",
+    "category": "Scene",
+    "subcategory": "Building",
+    "prompts": ["delfino_plaza"],
+    "optional_prompts": [],
+    "type": "LoRA"
   }
 }

@@ -78,5 +78,29 @@
     "prompts": ["age regression", "oversized clothes"],
     "optional_prompts": ["child"],
     "type": "LoRA"
+  },
+  "emotion_slider_happy": {
+    "url": "https://civitai.com/models/119494?modelVersionId=129821",
+    "category": "Other",
+    "subcategory": "Emotion",
+    "prompts": [],
+    "optional_prompts": [],
+    "type": "LoRA"
+  },
+  "ghost": {
+    "url": "https://civitai.com/models/126477?modelVersionId=138303",
+    "category": "Other",
+    "subcategory": "Character",
+    "prompts": ["g0s1"],
+    "optional_prompts": [
+      "ghost",
+      "hood",
+      "torn cloak",
+      "torn fabric",
+      "faceless",
+      "no humans",
+      "floating",
+      "horror \\(theme\\)"
+    ]
   }
 }

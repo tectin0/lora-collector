@@ -124,5 +124,13 @@
     "prompts": ["shushing"],
     "optional_prompts": [],
     "type": "LyCORIS"
+  },
+  "pool_ladder": {
+    "url": "https://civitai.com/models/123629?modelVersionId=134804",
+    "category": "Poses",
+    "subcategory": "Pool",
+    "prompts": ["pool ladder"],
+    "optional_prompts": [],
+    "type": "LyCORIS"
   }
 }

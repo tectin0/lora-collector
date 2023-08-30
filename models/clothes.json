@@ -46,5 +46,18 @@
     "prompts": [],
     "optional_prompts": [],
     "type": "LoRA"
+  },
+  "punk_rock_gothic": {
+    "url": "https://civitai.com/models/121103?modelVersionId=131753",
+    "category": "Clothes",
+    "subcategory": "Outfit",
+    "prompts": ["punk"],
+    "optional_prompts": [
+      "plaid skirt",
+      "multicolored hair",
+      "thigh boots",
+      "black lips"
+    ],
+    "type": "LoRA"
   }
 }

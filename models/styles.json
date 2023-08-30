@@ -225,5 +225,13 @@
     "prompts": [],
     "optional_prompts": [],
     "type": "LoRA"
+  },
+  "misaki_toji": {
+    "url": "https://civitai.com/models/133998?modelVersionId=147547",
+    "category": "Styles",
+    "subcategory": "Black and White",
+    "prompts": ["misakistyle"],
+    "optional_prompts": [],
+    "type": "LoRA"
   }
 }

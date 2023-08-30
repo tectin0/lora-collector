@@ -149,5 +149,13 @@
     "prompts": ["fairy", "butterfly_wings", "gem"],
     "optional_prompts": ["blue_dress", "purple_dress", "white_dress"],
     "type": "LoRA"
+  },
+  "breast_size_slider": {
+    "url": "https://civitai.com/models/131864?modelVersionId=146600",
+    "category": "Body",
+    "subcategory": "Body",
+    "prompts": [],
+    "optional_prompts": [],
+    "type": "LoRA"
   }
 }
